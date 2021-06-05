@@ -1,16 +1,16 @@
 # Week 8 IP
-Overview 
+## Overview 
 
 Nairobi Hospital conducted a clinical camp to test for hypothyroidism. The data collected focused on Thyroid patients. Use the healthcare datasets provided to accomplish the following:  
 
 Build a model that determines whether or not the patient's symptoms indicate that the patient has hypothyroid.
 
-Part 1: Decision trees:
+## Part 1: Decision trees:
 * For this section, you should build a model that makes the above prediction. You should not use individual decision trees, rather you should use at least 2 out of the 3 advanced models we have studied: Random forests, Ada boosted trees, and gradient boosted trees.
 * Try and optimize each of the 2 models, making sure to document how you've set up your hyperparameters.
 * Identify which of the 2 models you trust most, and use your model to determine which features are most impactful in influencing the prediction
 
-Part 2: SVM:
+## Part 2: SVM:
 
 * In this section, you may be required to clean the data a little bit so as to make sense of the features.
 
